@@ -60,7 +60,7 @@ Learning to use Github for your Portfolio Website Assignment
 |28|Carlota Castro Perez  | 2     | carlota-castro |<https://github.com/carlota-castro/my_website2>   | <https://carlota-portfolio2.netlify.app/> |2020-09-06 |
 |29|Julia Tulloh |1     |jtulloh | <https://github.com/jtulloh/jtulloh_portfolio>  | <https://jtullohportfolio.netlify.app/> | 2020-09-06 |
 |30|David Nazareth   |12    |david-nazareth|<https://github.com/david-nazareth/my_website> | <https://david-nazareth-portfolio.netlify.app/>|2020-09-06 |
-|31|Fabian Sinn | 2     | fabian-sinn | <https://github.com/fabian-sinn/my_website.git> | <https://fabiansinn.netlify.app/> |2020-09-06 |
+|31|Fabian Sinn | 2     | fabian-sinn | <https://github.com/fabian-sinn/my_website> | <https://fabiansinn.netlify.app/> |2020-09-06 |
 |32 | Vasu Dev Puri| 5| Vasudevpuri|<https://github.com/Vasudevpuri/my_website|https://vasudevpuri.netlify.app/>|2020-09-06     |
 |33 |Neel Kamal Puri| 3   | NeelKamalPuri | <https://github.com/NeelKamalPuri/NeelKamalPuri> |<https://neelkamalpuri.netlify.app/> |2020-09-06   |
 |34|Oliver Ayton   |12    |oayton|<https://github.com/oayton/my_website> | <https://oliver-ayton.netlify.app/>|2020-09-06 |
@@ -86,7 +86,7 @@ Learning to use Github for your Portfolio Website Assignment
 |54| Martino Armaninni | 10 | MartinoArmanini2021 | <https://github.com/MartinoArmanini2021/my_website> | <https://portfolio-martinoarmanini.netlify.app/> | 2020-09-08 |
 |55| Michael Gritzbach | 4 | michaelgritzbach | <https://github.com/Gritzbach/web> | <https://gritzbach.netlify.app/> | 2020-09-15 |
 |56| Stelios Tzavellos | 4 | steliostzavellos | <https://github.com/steliostzavellos/my_website | <https://stelios-tzavellos.netlify.app/> | 2020-09-08 |
-|57| Oana Muntean  | 15    | oanamunt |https://github.com/oanamunt/my_website.git   |<https://omunteanportofolio.netlify.app> |2020-09-9  |
+|57| Oana Muntean  | 15    | oanamunt |https://github.com/oanamunt/my_website   |<https://omunteanportofolio.netlify.app> |2020-09-9  |
 |58| (Proud)Lucksika Chaikul  | 2    | lucksikac |<https://github.com/lucksikac/my_website>   |<https://proudlucksika.netlify.app/> |2020-09-9  |
 |59| Ignacio Pascale  | 15    | ignaciopascale |<https://github.com/ignaciopascale/my-website>   |<https://ignacio-projects.netlify.app/> |2020-09-9  |
 |60|Christopher Lewis   | 13     | ChrisLewisNZ |<https://github.com/ChrisLewisNZ/my_website>   |<https://chrislewiswebsite.netlify.app/>  |2020-09-11  |
@@ -103,7 +103,7 @@ Learning to use Github for your Portfolio Website Assignment
 |71|Keshav Asokan | 1 | keshavasokan |https://github.com/keshavasokan/my_website  |<https://keshavasokan.netlify.app> |2020-09-15 |
 |72|Yuxue Sang | 3 | yuxue116 |https://github.com/yuxue116/mywebsite  |<https://yuxuesang.netlify.app> |2020-09-15 |
 |73|Jieyi Cai | 2 | acaciacai |https://github.com/acaciacai/Acacia_Website  |<https://acacia-jieyicai-portfolio.netlify.app> |2020-09-15 |
-|74|Johanna Jeffery |13| jjeffery98 | https://github.com/jjeffery98/my_website.git |<https://johanna-jeffery-portfolio.netlify.app/> | 2020-09-15|
+|74|Johanna Jeffery |13| jjeffery98 | https://github.com/jjeffery98/my_website |<https://johanna-jeffery-portfolio.netlify.app/> | 2020-09-15|
 |75|Rasul Rasulov |9| rasul21 |74| https://github.com/Rasul21/my_website |<https://rasul-portfolio.netlify.app> | 2020-09-15|
 |76|Marie Cordes   | 14     | mariecordes |<https://github.com/mariecordes/mywebsite>   |<https://mariecordes.netlify.app/>        |2020-09-16 |
-|76|Damestoy Hug-Paul |7| hugodamestoy| https://github.com/hugodamestoy/my_website_2.git |https://app.netlify.com/sites/hugo-website-2/overview | 2020-09-18|
+|76|Damestoy Hug-Paul |7| hugodamestoy| https://github.com/hugodamestoy/my_website_2 |https://app.netlify.com/sites/hugo-website-2/overview | 2020-09-18|
